@@ -9,7 +9,7 @@ Controls:
   Spacebar: shoot bullets
 
 Description:
-  Control a car speeding down a nice mountain road as you try to avoid and shoot at incoming obstacles flying at you. 
+  A car is speedin down a mountain road and only you can stop it from crashing into incoming obstacles.
   How long can you last?
   
 Goal:
