@@ -9,7 +9,7 @@ Controls:
   Spacebar: shoot bullets
 
 Description:
-  A car is speedin down a mountain road and only you can stop it from crashing into incoming obstacles.
+  A car is speeding down a mountain road and only you can stop it from crashing into incoming obstacles.
   How long can you last?
   
 Goal:
